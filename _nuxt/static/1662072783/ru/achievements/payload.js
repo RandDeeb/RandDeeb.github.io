@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ru/achievements", {data:[{}],fetch:{},mutations:void 0});
